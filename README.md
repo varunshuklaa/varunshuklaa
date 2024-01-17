@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **various frontend applications.**
+- 🔭 I’m currently working on **Data structures and Algorithms.**
 
 - 🌱 I’m currently learning **ReactJs.**
 
-- 📫 How to reach me **varunshuklaa01@gmail.com**
+- 📫 You can reach me at **varunshuklaa01@gmail.com**
 
 - ⚡ Fun fact :  **Coding be like... It doesn't work.. why? It works.. why?**
 
